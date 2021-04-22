@@ -5,7 +5,7 @@
   "author": "Girishav",
   "license": "MIT",
   "repository": "Girishav/my-first-library",
-  "main": "dist/index.js",
+  "main": "index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
   "engines": {

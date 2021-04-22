@@ -4,7 +4,10 @@
   "description": "My test library",
   "author": "Girishav",
   "license": "MIT",
-  "repository": "Girishav/my-first-library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Girishav/my-first-library.git"
+  },
   "main": "index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

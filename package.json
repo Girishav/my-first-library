@@ -4,14 +4,6 @@
   "description": "My test library",
   "author": "Girishav",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Girishav/my-first-library.git"
-  },
-  "engines": {
-    "node": ">=10"
-  },
-  "main": "index.js",
   "peerDependencies": {
     "react": "^16.0.0",
     "react-native": "^0.41.2"

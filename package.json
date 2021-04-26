@@ -7,6 +7,7 @@
   "repository": "Girishav/my-first-library",
   "source": "src/index.js",
   "main": "dist/index.js",
+  "module": "dist/index.modern.js",
   "engines": {
     "node": ">=10"
   },

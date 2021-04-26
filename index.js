@@ -1,5 +1,5 @@
 import React from 'react'
-import calendarRequest from "./calendarRequest"
+import calendarRequest from "./src/calendarRequest"
 
 class ExampleComponent {
   constructor(){

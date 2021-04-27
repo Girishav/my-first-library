@@ -19,8 +19,7 @@ class ExampleComponent {
           failure(error);
         });
       });
-   
     }
   } 
   
-  export default new ExampleComponent();
+export default new ExampleComponent();

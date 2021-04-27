@@ -1,7 +1,5 @@
 import React from 'react'
-import { ExampleComp } from 'my-first-library'
-import 'my-first-library/dist/index.css'
-
+import { ExampleComponent } from 'my-first-library'
 // const App = () => {
 //  // return <ExampleComponent text="Create React Library Example 😄" />
 //  return (
@@ -23,7 +21,7 @@ class App extends React.Component {
   };
   updateState() {
 
-    ExampleComp.getCalendarList("Rahul").then(response => {
+   ExampleComponent.getCalendarList("Rahul").then(response => {
       console.log("girish calendarlist data",response)
     }).catch(error => {
       console.log("config validation failed ::", error);

@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "react": "file:../node_modules/react",
+    "react-native": "file:../node_modules/react-native",
     "react-dom": "file:../node_modules/react-dom",
     "react-scripts": "file:../node_modules/react-scripts",
     "my-first-library": "file:.."

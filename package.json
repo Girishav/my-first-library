@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "Girishav/my-first-library",
   "source": "src/index.js",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "engines": {
     "node": ">=10"
   },
